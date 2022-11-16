@@ -12,3 +12,17 @@
      <p align="center">Direccion: Avenida Greyskoll n1</p>
      <p align="center">Email: heman83@gmail.com</p>
      <p align="center">Telefono: 666 12 34 56</p>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<fieldset>
+<legend>Datos Personales</legend>
+<ul>
+<li><b>Nacionalidad:&nbsp;</b> Española</li>
+<li><b>Fecha nacimiento:&nbsp;</b> 10-10-1983</li>
+<li><b>Estado civil:&nbsp;</b> Casado</li>
+</ul>
+</fieldset>
