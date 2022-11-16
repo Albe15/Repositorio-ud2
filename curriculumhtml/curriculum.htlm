@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Curriculum</title>
+     <Link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+<div id="principal">
+     <img src="heman.jpg" id="foto" align="left" width="180" height="200">
+     <h2 align="center"> Alberto Gar Per</h2>
+     <p align="center">Direccion: Avenida Greyskoll n1</p>
+     <p align="center">Email: heman83@gmail.com</p>
+     <p align="center">Telefono: 666 12 34 56</p>
